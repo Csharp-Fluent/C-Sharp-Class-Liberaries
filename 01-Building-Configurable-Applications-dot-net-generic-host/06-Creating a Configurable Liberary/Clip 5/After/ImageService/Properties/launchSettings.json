@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ImageService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "ImageService_watchPath": "Y:\\ImageDrop\\Dev"
+      },
+      "dotnetRunMessages": "true"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "thumbnailWidth": 48,
+    "thumbnailFilePrefix": "thumbnail-",
+    "mediumWidth": 300,
+    "mediumFilePrefix": "medium-",
+    "largeWidth": 720,
+    "largeFilePrefix": "large-",
+    "watermarkText": "Carved Rock Fitness",
+    "compressionLevel":  0.7
+}

@@ -1,0 +1,18 @@
+{
+    "imageConfig": {
+        "thumbnail": {
+            "width": 48,
+            "filePrefix": "thumbnail-"
+        },
+        "medium": {
+            "width": 300,
+            "filePrefix": "medium-"
+        },
+        "large": {
+            "width": 720,
+            "filePrefix": "large-",
+            "watermarkText": "Carved Rock Fitness"
+        },
+        "compressionLevel": 0.7
+    }
+}
